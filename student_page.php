@@ -30,12 +30,6 @@
  		</thead>
  		<tbody>
 
- 			<!-- <select name="choice" class="form-control">
-            <option value="option1">全体教师信息</option>
-            <option value="option2">查看我的信息</option>
-            <option value="option3">选择我的导师</option>
-            </select> -->
-          <!-- <button type="submit" class="btn btn-primary">确定</button> -->
  			<?php
  					while($row=mysqli_fetch_array($data))
  			        {
